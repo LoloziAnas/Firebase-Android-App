@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirebaseApp</string>
+    <string name="name">Username</string>
+    <string name="save">Save</string>
+    <string name="all_names">All Names</string>
+    <string name="get_names">Get Names</string>
+    <string name="menu_add">Add</string>
+    <string name="details_note">Details Note</string>
+    <string name="title_note">Title Note</string>
+    <string name="add">Add</string>
+    <string name="email">Email</string>
+</resources>
